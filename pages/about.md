@@ -6,7 +6,7 @@ weight: 6
 ---
 
 <div class="row">
-   <img src="co.jpg">
+   <img src="https://raw.githubusercontent.com/SaferGo/safergo.github.io/main/assets/img/comingSoon.jpg">
 </div>
 
 <!---
