@@ -3,10 +3,4 @@ layout: default
 permalink: /
 ---
 
-# **Under Construction**
-
-<!---
-
-{% include landing.html %}
-
--->
+<center><h1>Under Construction...</h1></center>
