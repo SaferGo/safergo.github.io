@@ -5,6 +5,12 @@ permalink: /about/
 weight: 6
 ---
 
+<div class="row">
+   <img src="co.jpg">
+</div>
+
+<!---
+
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
@@ -18,3 +24,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+-->
